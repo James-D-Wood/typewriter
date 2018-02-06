@@ -1,2 +1,3 @@
 # typewriter
-"Shall we play a game?" - A class that will "type" messages back to you. Inspired by WarGames, fueled by a love for karaoke.
+
+I set out to accomplish a very simple task with the Typewriter class. I wanted to spruce up my other applications' prompts with a WarGames-esque animation that imitated the computer typing to you. I created this effect by creating an array of random intervals between 0 and 200 ms for the program to sleep for between printing characters. I realized a modified version of these methods could be used to print song lyrics in time with the music assuming the beats per minute and beats per line were known. So in an effort to learn how to play mp3 files using Java, I taught my computer to sing "Cough Syrup" by Young the Giant as well. (MP3 not included in this repository)
